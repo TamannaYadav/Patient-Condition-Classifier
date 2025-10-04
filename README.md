@@ -1,4 +1,4 @@
-## Patient-Condition-Classifier
+# Patient-Condition-Classifier
 
 A machine learning project that predicts patient health conditions based on medical data and symptoms.
 The system uses multiple algorithms such as Naive Bayes, Logistic Regression, SVM, and Random Forest to classify patients into categories like:
@@ -7,7 +7,7 @@ The system uses multiple algorithms such as Naive Bayes, Logistic Regression, SV
  - High Blood Pressure
  - Diabetes (Type 2)
 
-# Features
+## Features
 
  - Data preprocessing and feature engineering
  - Multiple classification algorithms implemented
@@ -17,7 +17,7 @@ The system uses multiple algorithms such as Naive Bayes, Logistic Regression, SV
  - Modular code for easy extension
 
 
-# Results & Evaluation
+## Results & Evaluation
 
  - Models compared: Naive Bayes, Logistic Regression, Passive Regressive Model
  - Evaluation metrics: Accuracy, Precision, Recall, F1-score
